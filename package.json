@@ -48,6 +48,7 @@
     "@nestjs/terminus": "^10.2.3",
     "@nestjs/throttler": "^6.2.1",
     "@nestjs/typeorm": "^10.0.2",
+    "axios": "^1.7.9",
     "bcrypt": "^5.1.1",
     "cache-manager-redis-store": "^3.0.1",
     "class-transformer": "~0.5.1",
